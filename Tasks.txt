@@ -1,5 +1,0 @@
-Task 1. Today lab
-Task 2. Write a C program that reverses the string of your name,
- using a stack implemented with a character array.
- The program must contains functions such as push, pop, 
-displayreverse,  and main.
